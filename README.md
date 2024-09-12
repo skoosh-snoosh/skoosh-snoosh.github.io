@@ -1,2 +1,1 @@
-# skoosh-snoosh.github.io
-This is my website repo
+Hi this is a cool and good website!!!
